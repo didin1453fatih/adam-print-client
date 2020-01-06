@@ -1,0 +1,16 @@
+{
+  "name": "adam-print-system",
+  "version": "1.0.0",
+  "description": "this client print libaray for adam print service. I hope adam team helpfull when use this library. 😊😊😊 😘😘😘",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "btoa": "^1.2.1",
+    "print-js": "^1.0.63"
+  }
+}
