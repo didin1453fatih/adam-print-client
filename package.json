@@ -1,6 +1,6 @@
 {
   "name": "adam-print-client",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "this client print libaray for adam print service. I hope adam team helpfull when use this library. 😊😊😊 😘😘😘",
   "main": "src/index.js",
   "scripts": {
